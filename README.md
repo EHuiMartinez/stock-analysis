@@ -5,14 +5,16 @@
 The original script’s run time was tested on a set data and resulted in timing of 0.49 seconds for 2017 and 0.48 seconds for 2018.  After the script was refactored, it resulted in improved run time of 0.07 secs for both 2017 and 2018 data.  
 Below are screenshots of run times for both before and after refactoring of script:
 
-###2017 Original
+2017 Original
 ![Original_Challenge_2017.png](https://github.com/EHuiMartinez/stock-analysis/blob/master/Resources/Original_Challenge_2017.png)
-###2017 Refactored
+
+2017 Refactored
 ![VBA_Challenge_2017.png](https://github.com/EHuiMartinez/stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
-###2018 Original
+2018 Original
 ![Original_Challenge_2018.png](https://github.com/EHuiMartinez/stock-analysis/blob/master/Resources/Original_Challenge_2018.png)
-###2018 Refactored
+
+2018 Refactored
 ![VBA_Challenge_2018.png](https://github.com/EHuiMartinez/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
 ## Summary: 
